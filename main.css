@@ -3,7 +3,7 @@ body
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("images/clear.jpg");
+    background-image: url("clear.jpg");
     background-size: cover;
     font-family: 'Open Sans', sans-serif;
     transition: all 2s;
